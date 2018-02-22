@@ -15,6 +15,8 @@
 
 > k8 by example -- straight to the point, simple execution.
 
+Like to helm? Check out https://github.com/mateothegreat/helm-chart-atlassian-confluence
+
 ## Usage
 
 ```sh
